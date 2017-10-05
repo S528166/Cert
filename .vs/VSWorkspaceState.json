@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\pages",
+    "\\src\\pages\\login",
+    "\\src\\pages\\signup",
+    "\\src\\pages\\tabs",
+    "\\src\\pages\\welcome"
+  ],
+  "SelectedNode": "\\src\\pages\\signup\\signup.html",
+  "PreviewInSolutionExplorer": false
+}
